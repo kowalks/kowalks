@@ -8,6 +8,7 @@
         "OTRS",
         "POSIX",
         "Pygame",
-        "Pytest"
+        "Pytest",
+        "stdc"
     ]
 }
