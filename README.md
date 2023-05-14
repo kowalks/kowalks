@@ -11,11 +11,11 @@ A computer engineering student @ ITA :airplane:
 
 ### Projects I developed on my own 👨‍💻
 
-| Scope                     | Stack                                   | Concepts                                                     | Repository Link                                                               | Description                   |
-|---------------------------|-----------------------------------------|--------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------|
-| Data Science (Python)     | Pandas, Numpy, Pytest, Jupyter Notebook | Ci/CD, PyPI, Python framework, Optimization, Neural Networks | [ape-ai](https://github.com/kowalks/ape-ai)                                   | A Python framework for AI     |
-| Game development (Python) | Pygame, Numpy                           | OOP, Python Framework, GUI with Python                       | [nonogram](https://github.com/kowalks/nonogram)                               | A solver for Nonogram puzzles |
-| Algorithms (C++)          | Everything inside `bits/stdc++.h`       | Data Structures, Algorithms, OOP                             | [competitive-programming](https://github.com/kowalks/competitive-programming) | My personal CP repo           |
+| Scope                         | Stack                                   | Concepts                                                     | Repository Link                                                               | Description                   |
+|-------------------------------|-----------------------------------------|--------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------|
+| Data Science (Python)         | Pandas, Numpy, Pytest, Jupyter Notebook | Ci/CD, PyPI, Python framework, Optimization, Neural Networks | [ape-ai](https://github.com/kowalks/ape-ai)                                   | A Python framework for AI     |
+| Game development (Python)     | Pygame, Numpy                           | OOP, Python Framework, GUI with Python                       | [nonogram](https://github.com/kowalks/nonogram)                               | A solver for Nonogram puzzles |
+| Competitive Programming (C++) | Everything inside `bits/stdc++.h`       | Data Structures, Algorithms, OOP                             | [competitive-programming](https://github.com/kowalks/competitive-programming) | My personal CP repo           |
 
 ### Projects I engaged while in college 👨‍🎓
 
