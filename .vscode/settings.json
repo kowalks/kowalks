@@ -2,6 +2,9 @@
     "cSpell.enabled": true,
     "cSpell.words": [
         "Codecov",
+        "Guilherme",
+        "Keras",
+        "Kowalczuk",
         "minishell",
         "nonogram",
         "Numpy",
@@ -9,6 +12,15 @@
         "POSIX",
         "Pygame",
         "Pytest",
+        "snek",
         "stdc"
-    ]
+    ],
+    "markdownlint.config": {
+        "no-inline-html": {
+            "allowed_elements": ["img", "a", "div"]
+        },
+        "first-line-heading": {
+            "level": 3
+        }
+    },
 }
