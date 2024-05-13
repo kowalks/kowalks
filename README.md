@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Guilherme Kowalczuk <img src="https://www.asexualityarchive.com/wp-content/uploads/2018/05/prideflag_micro_bi.png"/>
 
-A computer engineering student @ ITA :airplane:
+A Computer Engineer from Porto Alegre :airplane:
 
 <div>
 <a href="https://github.com/kowalks">
